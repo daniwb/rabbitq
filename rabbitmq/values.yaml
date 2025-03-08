@@ -1,3 +1,4 @@
 global:
   persistence:
+    enabled: true
     size: 8Gi
