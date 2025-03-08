@@ -1,4 +1,5 @@
 global:
   persistence:
+    storageclass: longhorn
     enabled: true
     size: 8Gi
